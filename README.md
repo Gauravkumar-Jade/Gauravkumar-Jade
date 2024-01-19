@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Gauravkumar D. Jade</h1>
-<h3 align="center">A passionate Android App developer.</h3>
+# 💫 About Me:
+<h1 align="left">Hi 👋, I'm Gauravkumar D. Jade</h1>
+<h3 align="left">A passionate Android App developer.</h3>
 
+# 💻 Tech Stack:
+<div align="left">
+  <table>
+     <tr>
+     <td align="center" width=110>
+     <img height=60 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/></td>
+       <td align="center" width=110>
+     <img height=60 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></td>
+       <td align="center" width=110>
+      <img height=60 src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/></td>
+      <td align="center" width=110>
+      <img height=60 src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg"/></td>
+        <td align="center" width=110>
+     <img height=60 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></td>
+    </tr>
+    <tr>
+      <td align="center" width=110>Kotlin</td>
+      <td align="center" width=110>Java</td>
+      <td align="center" width=110>Android</td>
+      <td align="center" width=110>Android Studio</td>
+      <td align="center" width=110>Firebase</td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar-jade&show_icons=true&locale=en&layout=compact" alt="gauravkumar-jade" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkumar-jade&show_icons=true&locale=en" alt="gauravkumar-jade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar-jade&" alt="gauravkumar-jade" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar-jade&theme=blue-green&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gauravkumar-jade&theme=blue-green&show_icons=true&locale=en)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar-jade&theme=blue-green)<br/>
