@@ -1,6 +1,9 @@
 # 💫 About Me:
-<h1 align="left">Hi 👋, I'm Gauravkumar D. Jade</h1>
-<h3 align="left">A passionate Android App developer.</h3>
+- Hi 👋, I'm Gauravkumar D. Jade
+- A passionate Android App developer
+- Currently available for freelance projects.
+- I’m looking to expand my workspace with new projects.
+- Contact me through my <a href="mailto:gauravjade87@gmail.com">Email</a> address for further details.
 
 # 💻 Tech Stack:
 <div align="left">
