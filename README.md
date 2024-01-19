@@ -28,6 +28,6 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar-jade&theme=blue-green&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar-jade&theme=blue-green&show_icons=true&locale=en)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=gauravkumar-jade&theme=blue-green&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar-jade&theme=blue-green)<br/>
